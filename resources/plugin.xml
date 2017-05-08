@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="Artifactory-Plugin" version="1">
+    <about>
+        <name>Artifactory Plugin</name>
+        <version>1.0</version>
+        <target-go-version>17.2.0</target-go-version>
+        <description>
+            Jfrog Artifactory Plugin by EAIESB
+        </description> 
+        <vendor>
+            <name>EAIESB Software Solutions</name>
+            <url>http://github.com/eaiesb</url>
+        </vendor>
+    </about>
+</go-plugin>
