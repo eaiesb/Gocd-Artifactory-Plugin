@@ -1,4 +1,4 @@
-Go task plugin to upload Artifacts to Jfrog Repositary.
+Go task plugin to upload Artifacts to Jfrog Repository.
 
 *Usage:*
 
@@ -30,4 +30,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-# Gocd-Artifactory-Plugin
+
